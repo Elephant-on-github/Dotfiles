@@ -1,0 +1,44 @@
+[2025-12-27 19:34:06.235] [info] Using configuration file /home/eagle/.config/waybar/config
+[2025-12-27 19:34:06.235] [info] Including resource file: ~/.config/waybar/modules.json
+[2025-12-27 19:34:06.240] [info] Using CSS file /home/eagle/.config/waybar/style.css
+
+(waybar:28192): Gtk-WARNING **: 19:34:06.240: Theme parsing error: style.css:15:14: Not using units is deprecated. Assuming 'px'.
+[2025-12-27 19:34:06.250] [warning] 'swap-icon-label' must be a bool.
+[2025-12-27 19:34:06.250] [info] Niri IPC starting
+
+(waybar:28192): Gtk-WARNING **: 19:34:06.376: Theme directory categories@2x/22 of theme Colloid-Purple-Catppuccin has no size field
+
+[2025-12-27 19:34:06.505] [info] Bar configured (width: 1920, height: 34) for output: eDP-1
+[2025-12-27 19:36:42.737] [info] Using configuration file /home/eagle/.config/waybar/config
+[2025-12-27 19:36:42.737] [info] Including resource file: ~/.config/waybar/modules.json
+[2025-12-27 19:36:42.741] [info] Using CSS file /home/eagle/.config/waybar/style.css
+
+(waybar:28558): Gtk-WARNING **: 19:36:42.741: Theme parsing error: style.css:15:14: Not using units is deprecated. Assuming 'px'.
+[2025-12-27 19:36:42.748] [warning] 'swap-icon-label' must be a bool.
+[2025-12-27 19:36:42.748] [info] Niri IPC starting
+
+(waybar:28558): Gtk-WARNING **: 19:36:42.867: Theme directory categories@2x/22 of theme Colloid-Purple-Catppuccin has no size field
+
+[2025-12-27 19:36:43.037] [info] Bar configured (width: 1920, height: 34) for output: eDP-1
+[2025-12-27 19:39:16.548] [info] Using configuration file /home/eagle/.config/waybar/config
+[2025-12-27 19:39:16.548] [info] Including resource file: ~/.config/waybar/modules.json
+[2025-12-27 19:39:16.552] [info] Using CSS file /home/eagle/.config/waybar/style.css
+
+(waybar:29227): Gtk-WARNING **: 19:39:16.552: Theme parsing error: style.css:15:14: Not using units is deprecated. Assuming 'px'.
+[2025-12-27 19:39:16.560] [warning] 'swap-icon-label' must be a bool.
+[2025-12-27 19:39:16.560] [info] Niri IPC starting
+
+(waybar:29227): Gtk-WARNING **: 19:39:16.662: Theme directory categories@2x/22 of theme Colloid-Purple-Catppuccin has no size field
+
+[2025-12-27 19:39:16.787] [info] Bar configured (width: 1920, height: 34) for output: eDP-1
+
+(pavucontrol:30822): Gtk-WARNING **: 19:59:31.874: Unknown key gtk-button-images in /home/eagle/.config/gtk-4.0/settings.ini
+
+(pavucontrol:30822): Gtk-WARNING **: 19:59:31.874: Unknown key gtk-menu-images in /home/eagle/.config/gtk-4.0/settings.ini
+
+(pavucontrol:30822): Gtk-WARNING **: 19:59:31.874: Unknown key gtk-modules in /home/eagle/.config/gtk-4.0/settings.ini
+
+(pavucontrol:30822): Gtk-WARNING **: 19:59:31.916: Theme directory categories@2x/22 of theme Colloid-Purple-Catppuccin has no size field
+
+MESA-INTEL: warning: ../mesa-25.3.2/src/intel/vulkan/anv_formats.c:993: FINISHME: support more multi-planar formats with DRM modifiers
+MESA-INTEL: warning: ../mesa-25.3.2/src/intel/vulkan/anv_formats.c:959: FINISHME: support YUV colorspace with DRM format modifiers
